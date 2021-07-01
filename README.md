@@ -8,3 +8,4 @@
 - 2468: 안전 영역 [백준 문제](https://www.acmicpc.net/problem/2468) 🌷 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-2468-%EC%95%88%EC%A0%84-%EC%98%81%EC%97%AD)
 ### 2021.7.
 - 19685: Palindromic FizzBuzz  [백준 문제](https://www.acmicpc.net/problem/19685) 🌷 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-19685%EB%B2%88-Palindromic-FizzBuzz)
+- 4963: 섬의 개수 [백준 문제](https://www.acmicpc.net/problem/4963)
