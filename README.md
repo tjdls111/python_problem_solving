@@ -10,3 +10,6 @@
 - 19685: Palindromic FizzBuzz  [백준 문제](https://www.acmicpc.net/problem/19685) 🍉 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-19685%EB%B2%88-Palindromic-FizzBuzz)
 - 4963: 섬의 개수 [백준 문제](https://www.acmicpc.net/problem/4963) 🌱[벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-4963-%EC%84%AC%EC%9D%98-%EA%B0%9C%EC%88%98)
 - 7569: 토마토 [백준 문제](https://www.acmicpc.net/problem/7569) 🎉 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-7569-%ED%86%A0%EB%A7%88%ED%86%A0)
+- 1325: 효율적인 해킹 [백준 문제](https://www.acmicpc.net/problem/1325)
+- 2606: 바이러스 [백준 문제](https://www.acmicpc.net/problem/2606)
+- 2644: 촌수계산 [백준 문제](https://www.acmicpc.net/problem/2644) 
