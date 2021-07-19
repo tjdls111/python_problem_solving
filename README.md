@@ -11,3 +11,4 @@
 - 1325: 효율적인 해킹 [백준 문제](https://www.acmicpc.net/problem/1325)
 - 2606: 바이러스 [백준 문제](https://www.acmicpc.net/problem/2606)
 - 2644: 촌수계산 [백준 문제](https://www.acmicpc.net/problem/2644) 
+- 1063: 킹 [백준 문제](https://www.acmicpc.net/problem/1063)
