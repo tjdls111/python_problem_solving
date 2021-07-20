@@ -13,4 +13,4 @@
 - 2644: 촌수계산 [백준 문제](https://www.acmicpc.net/problem/2644) 
 - 1063: 킹 [백준 문제](https://www.acmicpc.net/problem/1063)
 - 10816: 숫자 카드2 [백준 문제](https://www.acmicpc.net/problem/10816)
-- 13301: 타일 장식물 [백준 문제](https://www.acmicpc.net/problem/13301)
+- 13301: 타일 장식물 [백준 문제](https://www.acmicpc.net/problem/13301) 👍 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-13301-%ED%83%80%EC%9D%BC-%EC%9E%A5%EC%8B%9D%EB%AC%BC)
