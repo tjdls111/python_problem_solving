@@ -12,3 +12,4 @@
 - 2606: 바이러스 [백준 문제](https://www.acmicpc.net/problem/2606)
 - 2644: 촌수계산 [백준 문제](https://www.acmicpc.net/problem/2644) 
 - 1063: 킹 [백준 문제](https://www.acmicpc.net/problem/1063)
+- 10816: 숫자 카드2 [백준 문제](https://www.acmicpc.net/problem/10816)
