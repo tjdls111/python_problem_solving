@@ -15,4 +15,4 @@
 - 10816: 숫자 카드2 [백준 문제](https://www.acmicpc.net/problem/10816)
 - 13301: 타일 장식물 [백준 문제](https://www.acmicpc.net/problem/13301) 👍 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-13301-%ED%83%80%EC%9D%BC-%EC%9E%A5%EC%8B%9D%EB%AC%BC)
 - 11726: 2Xn 타일링 [백준 문제](https://www.acmicpc.net/problem/11726) ✨ [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-111726%EB%B2%88-2Xn-%ED%83%80%EC%9D%BC%EB%A7%81)
-- 11723: 집합 [백준 문제](https://www.acmicpc.net/problem/11723)
+- 11723: 집합 [백준 문제](https://www.acmicpc.net/problem/11723) 🥳 [벨로그 포스팅](https://velog.io/@tjdls111/11723-%EC%A7%91%ED%95%A9)
