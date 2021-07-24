@@ -17,5 +17,5 @@
 - 11726: 2Xn 타일링 [백준 문제](https://www.acmicpc.net/problem/11726) ✨ [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-111726%EB%B2%88-2Xn-%ED%83%80%EC%9D%BC%EB%A7%81)
 - 11723: 집합 [백준 문제](https://www.acmicpc.net/problem/11723) 🥳 [벨로그 포스팅](https://velog.io/@tjdls111/11723-%EC%A7%91%ED%95%A9)
 - 15565: 귀여운 라이언 [백준 문제](https://www.acmicpc.net/problem/15565)
-- 1541: 잃어버린 괄호 [백준 문제]((https://www.acmicpc.net/problem/1541)
+- 1541: 잃어버린 괄호 [백준 문제](https://www.acmicpc.net/problem/1541)
 - 1260: DFS와 BFS [백준 문제](https://www.acmicpc.net/problem/1260)
