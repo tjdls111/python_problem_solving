@@ -19,3 +19,4 @@
 - 15565: 귀여운 라이언 [백준 문제](https://www.acmicpc.net/problem/15565)
 - 1541: 잃어버린 괄호 [백준 문제](https://www.acmicpc.net/problem/1541)
 - 1260: DFS와 BFS [백준 문제](https://www.acmicpc.net/problem/1260)
+- 16395: 파스칼의 삼각형 [백준 문제](https://www.acmicpc.net/problem/16395)
