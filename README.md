@@ -20,3 +20,5 @@
 - 1541: 잃어버린 괄호 [백준 문제](https://www.acmicpc.net/problem/1541)
 - 1260: DFS와 BFS [백준 문제](https://www.acmicpc.net/problem/1260)
 - 16395: 파스칼의 삼각형 [백준 문제](https://www.acmicpc.net/problem/16395)
+- 11053: 가장 긴 증가하는 부분수열 [백준문제](https://www.acmicpc.net/problem/11053)
+- 11724: 연결 요소의 개수 [백준문제](https://www.acmicpc.net/problem/11724)
