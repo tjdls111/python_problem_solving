@@ -22,3 +22,5 @@
 - 16395: 파스칼의 삼각형 [백준 문제](https://www.acmicpc.net/problem/16395)
 - 11053: 가장 긴 증가하는 부분수열 [백준문제](https://www.acmicpc.net/problem/11053)
 - 11724: 연결 요소의 개수 [백준문제](https://www.acmicpc.net/problem/11724)
+- 1931: 회의실 배정 [백준문제](https://www.acmicpc.net/problem/1931)
+- 15486: 퇴사2 [백준문제](https://www.acmicpc.net/problem/15486)
