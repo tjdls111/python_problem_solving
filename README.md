@@ -26,3 +26,4 @@
 - 15486: 퇴사2 [백준문제](https://www.acmicpc.net/problem/15486)
 - 16974: 레벨 햄버거 [백준문제](https://www.acmicpc.net/problem/16974)
 - 15903: 카드 합체 놀이  [백준문제](https://www.acmicpc.net/problem/15903)
+- 18222: 투에-모스 문자열 [백준문제](https://www.acmicpc.net/problem/18222)
