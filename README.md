@@ -24,3 +24,4 @@
 - 11724: 연결 요소의 개수 [백준문제](https://www.acmicpc.net/problem/11724)
 - 1931: 회의실 배정 [백준문제](https://www.acmicpc.net/problem/1931)
 - 15486: 퇴사2 [백준문제](https://www.acmicpc.net/problem/15486)
+- 16974: 레벨 햄버거 [백준문제](https://www.acmicpc.net/problem/16974)
