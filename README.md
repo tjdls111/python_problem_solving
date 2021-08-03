@@ -27,3 +27,4 @@
 - 16974: 레벨 햄버거 [백준문제](https://www.acmicpc.net/problem/16974)
 - 15903: 카드 합체 놀이  [백준문제](https://www.acmicpc.net/problem/15903)
 - 18222: 투에-모스 문자열 [백준문제](https://www.acmicpc.net/problem/18222)
+- 20206: 푸앙이가 길을 건너간 이유 [문제](https://www.acmicpc.net/problem/20206)
