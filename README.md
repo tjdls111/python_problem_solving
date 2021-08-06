@@ -31,3 +31,6 @@
 - 18222: 투에-모스 문자열 [백준문제](https://www.acmicpc.net/problem/18222)
 - 20206: 푸앙이가 길을 건너간 이유 [문제](https://www.acmicpc.net/problem/20206)
 - 1697: 숨바꼭질 [문제](https://www.acmicpc.net/problem/1697)
+- 11722: [가장 긴 감소하는 부분수열](https://www.acmicpc.net/problem/11722)
+- 14465: [소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465)
+- 14462: [소가 길을 건너간 이유 2](https://www.acmicpc.net/problem/14462)
