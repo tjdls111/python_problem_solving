@@ -34,3 +34,10 @@
 - 11722: [가장 긴 감소하는 부분수열](https://www.acmicpc.net/problem/11722)
 - 14465: [소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465)
 - 14462: [소가 길을 건너간 이유 2](https://www.acmicpc.net/problem/14462)
+- 2591: [숫자카드](https://www.acmicpc.net/problem/2591)
+- 10844: [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
+- 2294 [동전 2](https://www.acmicpc.net/problem/2294)
+- 17216 [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216)
+- 11722 [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
+- 2156 [포도주 시식](https://www.acmicpc.net/problem/2156)
+- 
