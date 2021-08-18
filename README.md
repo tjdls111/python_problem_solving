@@ -49,3 +49,4 @@
 - 2573 [빙산](https://www.acmicpc.net/problem/2573) 🌼 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-2258-%EC%A0%95%EC%9C%A1%EC%A0%90)
 - 21317 [징검다리 건너기](https://www.acmicpc.net/problem/21317)  🍠 [벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-21317-%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0)
 - 13700 [완전범죄](https://www.acmicpc.net/problem/13700)
+- 15925 [욱제는 정치쟁이야!!](https://www.acmicpc.net/problem/15925)
