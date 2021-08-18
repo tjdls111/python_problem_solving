@@ -47,3 +47,4 @@
 - 2258 [정육점](https://www.acmicpc.net/problem/2258) ✨[벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-2258-%EC%A0%95%EC%9C%A1%EC%A0%90)
 - 16987 [계란으로 계란치기](https://www.acmicpc.net/problem/16987) 
 - 2573 [빙산](https://www.acmicpc.net/problem/2573) 🌼 [벨로그 포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-2258-%EC%A0%95%EC%9C%A1%EC%A0%90)
+- 21317 [징검다리 건너기](https://www.acmicpc.net/problem/21317)
