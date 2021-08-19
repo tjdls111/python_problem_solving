@@ -51,3 +51,5 @@
 - 13700 [완전범죄](https://www.acmicpc.net/problem/13700)
 - 15925 [욱제는 정치쟁이야!!](https://www.acmicpc.net/problem/15925)
 - 1712 [손익분기점](https://www.acmicpc.net/problem/1712)
+- 11943 [파일 옮기기](https://www.acmicpc.net/problem/11943)
+- 10214 [Baseball](https://www.acmicpc.net/problem/10214)
