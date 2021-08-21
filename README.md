@@ -53,4 +53,4 @@
 - 1712 [손익분기점](https://www.acmicpc.net/problem/1712)
 - 11943 [파일 옮기기](https://www.acmicpc.net/problem/11943)
 - 10214 [Baseball](https://www.acmicpc.net/problem/10214)
-- 22252 [정보 상인 호석](https://www.acmicpc.net/problem/22252)
+- 22252 [정보 상인 호석](https://www.acmicpc.net/problem/22252)  👩‍💻 [벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-22252-%EC%A0%95%EB%B3%B4-%EC%83%81%EC%9D%B8-%ED%98%B8%EC%84%9D)
