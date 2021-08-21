@@ -53,3 +53,4 @@
 - 1712 [손익분기점](https://www.acmicpc.net/problem/1712)
 - 11943 [파일 옮기기](https://www.acmicpc.net/problem/11943)
 - 10214 [Baseball](https://www.acmicpc.net/problem/10214)
+- 22252 [정보 상인 호석](https://www.acmicpc.net/problem/22252)
