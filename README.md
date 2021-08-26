@@ -57,3 +57,4 @@
 - 1463 [1로 만들기](https://www.acmicpc.net/problem/1463) 👩‍💻[벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-1463-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - 2239 [스토쿠](https://www.acmicpc.net/problem/2239)
 - 20164 [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)
+- 11067 [모노톤길](https://www.acmicpc.net/problem/11067) 👩‍💻 [벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-11067-%EB%AA%A8%EB%85%B8%ED%86%A4%EA%B8%B8)
