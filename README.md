@@ -59,3 +59,5 @@
 - 20164 [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)
 - 11067 [모노톤길](https://www.acmicpc.net/problem/11067) 👩‍💻 [벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-11067-%EB%AA%A8%EB%85%B8%ED%86%A4%EA%B8%B8)
 - 14267 [회사 문화1](https://www.acmicpc.net/problem/14267) 🤔 [벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-14267-%ED%9A%8C%EC%82%AC-%EB%AC%B8%ED%99%941)
+- 2206 [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) 😆 [벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-2206-%EB%B2%BD-%EB%B6%80%EC%88%98%EA%B3%A0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)
+- 2174 [로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) 😎 [velog](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-2174-%EB%A1%9C%EB%B4%87-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98)
