@@ -66,3 +66,4 @@
 - 1753 [최단 경로](https://www.acmicpc.net/problem/1753) ✨ [velog](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-1753-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C)
 - 11000 [강의실 배정](https://www.acmicpc.net/problem/11000) 
 - 22867 [종점](https://www.acmicpc.net/problem/22867) 🌱 [velog](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-22867-%EC%A2%85%EC%A0%90)
+- 9765 [여섯 방정식](https://www.acmicpc.net/problem/9765)
