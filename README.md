@@ -68,3 +68,5 @@
 - 22867 [종점](https://www.acmicpc.net/problem/22867) 🌱 [velog](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-22867-%EC%A2%85%EC%A0%90)
 - 9765 [여섯 방정식](https://www.acmicpc.net/problem/9765)
 - 22859 [HTML 파싱](https://www.acmicpc.net/problem/22859)
+- 9998 [블록 쌓기](https://www.acmicpc.net/problem/9998)
+- 18511 [큰 수 구성하기](https://www.acmicpc.net/problem/18511)
