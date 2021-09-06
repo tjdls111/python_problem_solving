@@ -70,3 +70,4 @@
 - 22859 [HTML 파싱](https://www.acmicpc.net/problem/22859)
 - 9998 [블록 쌓기](https://www.acmicpc.net/problem/9998)
 - 18511 [큰 수 구성하기](https://www.acmicpc.net/problem/18511)
+- 7562 [나이트의 이동](https://www.acmicpc.net/problem/7562)
