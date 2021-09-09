@@ -77,3 +77,4 @@
 - 13305 [주유소](https://www.acmicpc.net/problem/13305)
 - 1316 [그룹단어체커](https://www.acmicpc.net/problem/1316)
 - 4673 [셀프 넘버](https://www.acmicpc.net/problem/4673)
+- 21772[가희의 고구마 먹방](https://www.acmicpc.net/problem/21772)
