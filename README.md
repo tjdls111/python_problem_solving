@@ -79,3 +79,7 @@
 - 4673 [셀프 넘버](https://www.acmicpc.net/problem/4673)
 - 21772[가희의 고구마 먹방](https://www.acmicpc.net/problem/21772)
 - 11660[구간 합 구하기 5](https://www.acmicpc.net/problem/11660) 😎[벨로그](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-11660-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-5)
+- 2812[크게 만들기](https://www.acmicpc.net/problem/2812)
+- 22942 [데이터 체커](https://www.acmicpc.net/problem/22942)
+- 2655[가장 높은 탑 쌓기](https://www.acmicpc.net/problem/2655)
+- 5052[전화번호 목록](https://www.acmicpc.net/problem/5052)
