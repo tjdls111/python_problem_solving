@@ -83,3 +83,4 @@
 - 22942 [데이터 체커](https://www.acmicpc.net/problem/22942)
 - 2655[가장 높은 탑 쌓기](https://www.acmicpc.net/problem/2655)
 - 5052[전화번호 목록](https://www.acmicpc.net/problem/5052)
+- 1759[암호 만들기](https://www.acmicpc.net/problem/1759)
