@@ -87,4 +87,8 @@
 - 25440 [🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440) 💛 [포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%8020440-%EB%8B%88%EA%B0%80-%EC%8B%AB%EC%96%B4-%ED%9B%84%EB%9E%B5)
 - 1059[좋은 구간](https://www.acmicpc.net/problem/1059)
 - 15681[트리와 쿼리](https://www.acmicpc.net/status?user_id=tjdls111&problem_id=15681&from_mine=1) : 알려준 대로 푸니까 풀 수 있었다! 처음에 루트를 뭐로 정하지 고민했는데, 문제 속에 있었네.. ;; 역시 문제를 잘 읽어야 한다..!
-- 22945[팈 빌딩](https://www.acmicpc.net/problem/22945) 
+- 22945[팀 빌딩](https://www.acmicpc.net/problem/22945) 
+- 10971 [외판원 순회 2](https://www.acmicpc.net/problem/10971) : 백 트래킹 조건!! 💛  [포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-10971-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C-2)
+- 17394 [핑거 스냅](https://www.acmicpc.net/problem/17394) : 범위에 맞는 소수를 미리 쭉 구하는 아이디어 ㅎㅎ 인덱스 주의하기 😎[포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-17394-%ED%95%91%EA%B1%B0-%EC%8A%A4%EB%83%85)
+- 16174 [점프왕 쩰리](https://www.acmicpc.net/problem/16174)
+
