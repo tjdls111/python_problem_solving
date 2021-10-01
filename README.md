@@ -92,3 +92,7 @@
 - 17394 [핑거 스냅](https://www.acmicpc.net/problem/17394) : 범위에 맞는 소수를 미리 쭉 구하는 아이디어 ㅎㅎ 인덱스 주의하기 😎[포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-17394-%ED%95%91%EA%B1%B0-%EC%8A%A4%EB%83%85)
 - 16174 [점프왕 쩰리](https://www.acmicpc.net/problem/16174)
 
+## 2021. 10
+
+- [피보나치 함수](https://www.acmicpc.net/problem/1003)
+- 
