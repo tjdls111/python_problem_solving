@@ -97,4 +97,5 @@
 - [1003 피보나치 함수](https://www.acmicpc.net/problem/1003)
 - [15270 친구 팰린드롬](https://www.acmicpc.net/problem/15270)
 - [19539 사과나무](https://www.acmicpc.net/problem/19539)
+- [14395. 4연산](https://www.acmicpc.net/problem/14395) 🥰 [포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-14395-4%EC%97%B0%EC%82%B0)
 
