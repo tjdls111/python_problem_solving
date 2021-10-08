@@ -98,4 +98,7 @@
 - [15270 친구 팰린드롬](https://www.acmicpc.net/problem/15270)
 - [19539 사과나무](https://www.acmicpc.net/problem/19539)
 - [14395. 4연산](https://www.acmicpc.net/problem/14395) 🥰 [포스팅](https://velog.io/@tjdls111/%EB%B0%B1%EC%A4%80-14395-4%EC%97%B0%EC%82%B0)
+- [21738. 얼음깨기 펭귄](https://www.acmicpc.net/problem/21738)
+- [11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) 🌟 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11725-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)
+- [1167. 트리의 지름](https://www.acmicpc.net/problem/1167) 👍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1167-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)
 
