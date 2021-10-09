@@ -101,4 +101,5 @@
 - [21738. 얼음깨기 펭귄](https://www.acmicpc.net/problem/21738)
 - [11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) 🌟 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11725-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)
 - [1167. 트리의 지름](https://www.acmicpc.net/problem/1167) 👍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1167-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)
+- [17392.우울한 방학](https://www.acmicpc.net/problem/17392) ✅[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-17392-%EC%9A%B0%EC%9A%B8%ED%95%9C-%EB%B0%A9%ED%95%99)
 
