@@ -116,5 +116,7 @@
 
 - [1717. 집합의 표현](https://www.acmicpc.net/problem/1717)
 
+- [11559. Puyo Puyo](https://www.acmicpc.net/problem/11559) 📝 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11559-Puyo-Puyo)
+
   
 
