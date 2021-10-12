@@ -118,5 +118,9 @@
 
 - [11559. Puyo Puyo](https://www.acmicpc.net/problem/11559) 📝 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11559-Puyo-Puyo)
 
+- [23085. 판치기](https://www.acmicpc.net/problem/23085) 😍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-23085-%ED%8C%90%EC%B9%98%EA%B8%B0?category=1016620)
+
+- [1303. 전쟁-전투](https://www.acmicpc.net/problem/1303) 🥰 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1303-%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC?category=1016620)
+
   
 
