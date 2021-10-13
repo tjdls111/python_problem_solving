@@ -122,5 +122,7 @@
 
 - [1303. 전쟁-전투](https://www.acmicpc.net/problem/1303) 🥰 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1303-%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC?category=1016620)
 
+- [2668. 숫자 고르기](https://www.acmicpc.net/problem/2668) 😎 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-2668-%EC%88%AB%EC%9E%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
+
   
 
