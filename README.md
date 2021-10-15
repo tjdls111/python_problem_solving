@@ -95,40 +95,23 @@
 ## 2021. 10
 
 - [1003 피보나치 함수](https://www.acmicpc.net/problem/1003)
-
 - [15270 친구 팰린드롬](https://www.acmicpc.net/problem/15270)
-
 - [19539 사과나무](https://www.acmicpc.net/problem/19539)
-
 - [14395. 4연산](https://www.acmicpc.net/problem/14395) 🥰 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-14395-4%EC%97%B0%EC%82%B0)
-
 - [21738. 얼음깨기 펭귄](https://www.acmicpc.net/problem/21738)
-
 - [11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) 🌟 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11725-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)
-
 - [1167. 트리의 지름](https://www.acmicpc.net/problem/1167) 👍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1167-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)
-
 - [17392.우울한 방학](https://www.acmicpc.net/problem/17392) ✅[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-17392-%EC%9A%B0%EC%9A%B8%ED%95%9C-%EB%B0%A9%ED%95%99)
-
 - [16956. 늑대와 양](https://www.acmicpc.net/problem/16956)
-
 - [9372. 상근이의 여행](https://www.acmicpc.net/problem/9372)
-
 - [1717. 집합의 표현](https://www.acmicpc.net/problem/1717)
-
 - [11559. Puyo Puyo](https://www.acmicpc.net/problem/11559) 📝 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11559-Puyo-Puyo)
-
 - [23085. 판치기](https://www.acmicpc.net/problem/23085) 😍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-23085-%ED%8C%90%EC%B9%98%EA%B8%B0?category=1016620)
-
 - [1303. 전쟁-전투](https://www.acmicpc.net/problem/1303) 🥰 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1303-%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC?category=1016620)
-
 - [2668. 숫자 고르기](https://www.acmicpc.net/problem/2668) 😎 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-2668-%EC%88%AB%EC%9E%90-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
-
 - [1197. 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
-
 - [11404. 플로이드](https://www.acmicpc.net/problem/11404) ✨ [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-11404-%ED%94%84%EB%A1%9C%EC%9D%B4%EB%93%9C)
-
 - [20444.색종이와 가위](https://www.acmicpc.net/problem/20444)
-
-  
-
+- [1922.네트워크 연결](https://www.acmicpc.net/problem/1922)
+- [14621. 나만 안되는 연애](https://www.acmicpc.net/problem/14621) ☺ [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-14621-%EB%82%98%EB%A7%8C-%EC%95%88%EB%90%98%EB%8A%94-%EC%97%B0%EC%95%A0)
+- 
