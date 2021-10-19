@@ -119,4 +119,5 @@
 - [18115.  카드 놓기](https://www.acmicpc.net/problem/18115)
 - [2210. 숫자판 점프](https://www.acmicpc.net/problem/2210)
 - [2583. 영역 구하기](https://www.acmicpc.net/problem/2583)
-- 
+- [17265. 나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265)
+- [20040. 사이클 탐색](https://www.acmicpc.net/problem/20040)
