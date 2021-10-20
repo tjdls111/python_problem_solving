@@ -121,3 +121,4 @@
 - [2583. 영역 구하기](https://www.acmicpc.net/problem/2583)
 - [17265. 나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265)
 - [20040. 사이클 탐색](https://www.acmicpc.net/problem/20040)
+- [21776.  가희와 읽기 쓰기 놀이](https://www.acmicpc.net/problem/21776) 😀 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-21776-%EA%B0%80%ED%9D%AC%EC%99%80-%EC%9D%BD%EA%B8%B0-%EC%93%B0%EA%B8%B0-%EB%86%80%EC%9D%B4)
