@@ -133,3 +133,4 @@
 - [9205. 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
 - [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [11867 박스 나누기 게임](https://www.acmicpc.net/problem/11867)
+- [22234 가희와 은행](https://www.acmicpc.net/problem/22234) 🌰 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-22234-%EA%B0%80%ED%9D%AC%EC%99%80-%EC%9D%80%ED%96%89)
