@@ -134,3 +134,6 @@
 - [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [11867 박스 나누기 게임](https://www.acmicpc.net/problem/11867)
 - [22234 가희와 은행](https://www.acmicpc.net/problem/22234) 🌰 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-22234-%EA%B0%80%ED%9D%AC%EC%99%80-%EC%9D%80%ED%96%89)
+- [1149.RGB 거리](https://www.acmicpc.net/problem/1149) 🍁[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1149-RGB-%EA%B1%B0%EB%A6%AC)
+- [2170. 선 긋기](https://www.acmicpc.net/problem/2170) 🍂 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-2170-%EC%84%A0-%EA%B8%8B%EA%B8%B0)
+
