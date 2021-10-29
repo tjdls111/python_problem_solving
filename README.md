@@ -139,4 +139,5 @@
 - [16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940) 💕[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-16940-BFS-%EC%8A%A4%ED%8E%98%EC%85%9C-%EC%A0%80%EC%A7%80)
 - [14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)
 - [2839. 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [17404. RGB 거리2](https://www.acmicpc.net/problem/17404) 🍁 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-17404-RGB%EA%B1%B0%EB%A6%AC-2)
 - 
