@@ -144,3 +144,7 @@
 - [15954 인형들](https://www.acmicpc.net/problem/15954)
 - [15651 N과 M 3](https://www.acmicpc.net/problem/15651) 부터 [N과 M 12](https://www.acmicpc.net/problem/15666)까지 (N과 M 3~12)
 
+### 2021.11.
+
+[14940. 쉬운 최단거리 ](https://www.acmicpc.net/problem/14940)🍁[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-14940-%EC%89%AC%EC%9A%B4-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+
