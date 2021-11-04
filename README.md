@@ -152,3 +152,5 @@
 
 [1027. 고층 건물](https://www.acmicpc.net/problem/1027)
 
+[10828. 스택](https://www.acmicpc.net/problem/10828)
+
