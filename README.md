@@ -146,11 +146,8 @@
 
 ### 2021.11.
 
-[14940. 쉬운 최단거리 ](https://www.acmicpc.net/problem/14940)🍁[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-14940-%EC%89%AC%EC%9A%B4-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
-
-[14719. 빗물](https://www.acmicpc.net/problem/14719) 😍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-14719-%EB%B9%97%EB%AC%BC)
-
-[1027. 고층 건물](https://www.acmicpc.net/problem/1027)
-
-[10828. 스택](https://www.acmicpc.net/problem/10828)
-
+- [14940. 쉬운 최단거리 ](https://www.acmicpc.net/problem/14940)🍁[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-14940-%EC%89%AC%EC%9A%B4-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+- [14719. 빗물](https://www.acmicpc.net/problem/14719) 😍 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-14719-%EB%B9%97%EB%AC%BC)
+- [1027. 고층 건물](https://www.acmicpc.net/problem/1027)
+- [10828. 스택](https://www.acmicpc.net/problem/10828)
+- [22965 k개의 부분수열](https://www.acmicpc.net/problem/22965)
