@@ -152,4 +152,6 @@
 - [10828. 스택](https://www.acmicpc.net/problem/10828)
 - [22965 k개의 부분수열](https://www.acmicpc.net/problem/22965)
 - [17144 미세먼지 안녕! ](https://www.acmicpc.net/problem/17144)🎀 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-17114%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95)
-
+- [1182. 부분수열의 합](https://www.acmicpc.net/problem/1182)
+- [10419. 지각](https://www.acmicpc.net/problem/10419)
+- [6603. 로또](https://www.acmicpc.net/problem/6603)
