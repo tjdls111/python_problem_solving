@@ -155,3 +155,4 @@
 - [1182. 부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [10419. 지각](https://www.acmicpc.net/problem/10419)
 - [6603. 로또](https://www.acmicpc.net/problem/6603)
+- [20302. 민트 초코](https://www.acmicpc.net/problem/20302)
