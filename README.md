@@ -156,3 +156,4 @@
 - [10419. 지각](https://www.acmicpc.net/problem/10419)
 - [6603. 로또](https://www.acmicpc.net/problem/6603)
 - [20302. 민트 초코](https://www.acmicpc.net/problem/20302)
+- [12107 약수 지우기 게임1](https://www.acmicpc.net/problem/12107)
