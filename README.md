@@ -159,3 +159,5 @@
 - [12107 약수 지우기 게임1](https://www.acmicpc.net/problem/12107)
 - [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) 🍅 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1600-%EB%A7%90%EC%9D%B4-%EB%90%98%EA%B3%A0%ED%94%88-%EC%9B%90%EC%88%AD%EC%9D%B4)
 - [2579 계단 오르기](https://www.acmicpc.net/problem/2579)
+- [4811 알약](https://www.acmicpc.net/problem/4811)
+- [20008 몬스터를 처치하자!](https://www.acmicpc.net/problem/20008)
