@@ -170,3 +170,8 @@
 - [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [1259 팰린드롬수](https://www.acmicpc.net/problem/1259)
 - [11050 이항계수1](https://www.acmicpc.net/problem/11050)
+- [14712 넴모넴모(Easy)](https://www.acmicpc.net/problem/14712)
+- [16457 단풍잎 이야기](https://www.acmicpc.net/problem/16457)
+- [14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+- [10845 큐](https://www.acmicpc.net/problem/10845)
+- [3107 IPv6](https://www.acmicpc.net/problem/3107)
