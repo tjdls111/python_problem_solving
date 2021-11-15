@@ -175,3 +175,4 @@
 - [14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 - [10845 큐](https://www.acmicpc.net/problem/10845)
 - [3107 IPv6](https://www.acmicpc.net/problem/3107)
+- [9660 돌 게임6](https://www.acmicpc.net/problem/9660)
