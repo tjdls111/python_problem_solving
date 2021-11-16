@@ -176,3 +176,5 @@
 - [10845 큐](https://www.acmicpc.net/problem/10845)
 - [3107 IPv6](https://www.acmicpc.net/problem/3107)
 - [9660 돌 게임6](https://www.acmicpc.net/problem/9660)
+- [9084 동전](https://www.acmicpc.net/problem/9084)
+- [17836 공주님을 구해라](https://www.acmicpc.net/problem/17836)
