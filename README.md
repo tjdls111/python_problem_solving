@@ -178,11 +178,9 @@
 - [9660 돌 게임6](https://www.acmicpc.net/problem/9660)
 - [9084 동전](https://www.acmicpc.net/problem/9084)
 - [17836 공주님을 구해라](https://www.acmicpc.net/problem/17836)
-<<<<<<< HEAD
 - [15686 치킨 배달하기](https://www.acmicpc.net/problem/15686)
 - [1072 게임](https://www.acmicpc.net/problem/1072)
 - [2343 기타 레슨](https://www.acmicpc.net/problem/2343)
 - [1475 방 번호](https://www.acmicpc.net/problem/1475)
-=======
-- [15686 치킨 배달](https://www.acmicpc.net/problem/15686)
->>>>>>> a4981630ef1d7af7bd97d8716c7da788d89803ea
+- [17202 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202)
+- [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
