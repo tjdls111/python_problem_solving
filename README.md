@@ -186,3 +186,5 @@
 - [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
 - [15965 K번째 소수](https://www.acmicpc.net/problem/15965)
 - [15810 풍선 공장](https://www.acmicpc.net/problem/15810)
+- [22254. 공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254)
+- 
