@@ -187,4 +187,14 @@
 - [15965 K번째 소수](https://www.acmicpc.net/problem/15965)
 - [15810 풍선 공장](https://www.acmicpc.net/problem/15810)
 - [22254. 공정 컨설턴트 호석](https://www.acmicpc.net/problem/22254)
-- 
+- [10826 피보나치 수 4](https://www.acmicpc.net/problem/10826)
+- [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+- [16397 탈출](https://www.acmicpc.net/problem/16397)
+
+### 21년 12월 👩‍💻🎄
+
+- [23740 버스 노선 개편하기](https://www.acmicpc.net/problem/23740)
+- [1613 역사](https://www.acmicpc.net/problem/1613)
+- [23739 벼락치기](https://www.acmicpc.net/problem/23739)
+- [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
+- [9844 Gecko](https://www.acmicpc.net/problem/9844)
