@@ -200,3 +200,6 @@
 - [9844 Gecko](https://www.acmicpc.net/problem/9844)
 - [20311. 화학 실험](https://www.acmicpc.net/problem/20311)
 - [19598. 최소 회의실 개수](https://www.acmicpc.net/problem/19598)
+- [2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042)
+- [1275. 커피숍2](https://www.acmicpc.net/problem/1275)
+- [2357. 최솟값과 최댓값](https://www.acmicpc.net/problem/2357)
