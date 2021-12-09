@@ -203,3 +203,4 @@
 - [2042. 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [1275. 커피숍2](https://www.acmicpc.net/problem/1275)
 - [2357. 최솟값과 최댓값](https://www.acmicpc.net/problem/2357)
+- [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
