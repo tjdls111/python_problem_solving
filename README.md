@@ -206,4 +206,5 @@
 - [6087 레이저 통신](https://www.acmicpc.net/problem/6087) 💚 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-6087-%EB%A0%88%EC%9D%B4%EC%A0%80-%ED%86%B5%EC%8B%A0)
 - [1052 물병](https://www.acmicpc.net/problem/1052) 🧡 [포스팅](https://dalseoin.tistory.com/entry/%EB%B9%84%ED%8A%B8-%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%AC%B8%EC%A0%9C%EB%93%A4)
 - [1094 막대기](https://www.acmicpc.net/problem/1094) 🧡 [포스팅](https://dalseoin.tistory.com/entry/%EB%B9%84%ED%8A%B8-%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%AC%B8%EC%A0%9C%EB%93%A4)
-
+- [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) 💜 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-4485-%EC%B4%88%EB%A1%9D-%EC%98%B7-%EC%9E%85%EC%9D%80-%EC%95%A0%EA%B0%80-%EC%A0%A4%EB%8B%A4%EC%A7%80)
+- [7490 0만들기](https://www.acmicpc.net/problem/7490) ⛄[포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-7490-0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
