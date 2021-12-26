@@ -216,4 +216,5 @@
 - [1195 킥다운](https://www.acmicpc.net/problem/1195) ☘ [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1195-%ED%82%A5%EB%8B%A4%EC%9A%B4)
 - [1932 정수 삼각형](https://www.acmicpc.net/problem/1932) ✨ [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1932-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)
 - [15990 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990) ✅ [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-15990-123-%EB%8D%94%ED%95%98%EA%B8%B0-5)
+- [1501 영어 읽기](https://www.acmicpc.net/problem/1501) 🎄 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-1501-%EC%98%81%EC%96%B4-%EC%9D%BD%EA%B8%B0)
 
