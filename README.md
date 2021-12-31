@@ -220,3 +220,8 @@
 - [15927 회문은 회문아니야!]( https://www.acmicpc.net/problem/15927) ❤ [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-15927-%ED%9A%8C%EB%AC%B8%EC%9D%80-%ED%9A%8C%EB%AC%B8%EC%95%84%EB%8B%88%EC%95%BC)
 - [2157 여행](https://www.acmicpc.net/problem/2157)
 - [1092 배](https://www.acmicpc.net/problem/1092)
+- [9465 스티커](https://www.acmicpc.net/problem/9465) 😎 [포스팅](https://dalseoin.tistory.com/entry/%EB%B0%B1%EC%A4%80-%ED%8C%8C%EC%9D%B4%EC%8D%AC-9465-%EC%8A%A4%ED%8B%B0%EC%BB%A4)
+- [1874 스택 수열](https://www.acmicpc.net/problem/1874)
+- [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+- [1797 균형 잡힌 줄서기](https://www.acmicpc.net/problem/1797)
