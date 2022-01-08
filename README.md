@@ -6,3 +6,5 @@
 
 [2021년](problem_lists/2021.md)
 
+[2022년](problem_lists/2022.md)
+
